@@ -1,5 +1,4 @@
 # SharathKoppula
-Aspiring DevOps Engineer | AWS | Linux | Docker | Terraform
 
 # Hi, I'm Sharath 👋
 
