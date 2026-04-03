@@ -1,7 +1,7 @@
 # SharathKoppula
 
 # Hi, I'm Sharath 👋                                                    
-                                                                                                    ![git readme](https://github.com/user-attachments/assets/3ab4ccf1-330f-4e96-9cf1-6f832723028b)
+                                                                  ![git readme](https://github.com/user-attachments/assets/3ab4ccf1-330f-4e96-9cf1-6f832723028b)
 
 
 🚀 Entry-Level Cloud & DevOps Engineer  
